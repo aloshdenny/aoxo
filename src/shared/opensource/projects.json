@@ -1,0 +1,136 @@
+{
+  "data": [
+    {
+      "id": "R_kgDOJWL0-g",
+      "name": "text-2-asmr",
+      "createdAt": "2024-01-13T04:18:19Z",
+      "url": "https://huggingface.co/datasets/aoxo/text2asmr-uncensored",
+      "description": "Improvised UNet-Diffusion Implementation of Text-guided ASMR content generation.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "simple-icons:pytorch"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG_vYHA",
+      "name": "latent-diffusion-super-sampling",
+      "createdAt": "2024-01-21T20:41:33Z",
+      "url": "https://huggingface.co/datasets/aoxo/latent_diffusion_super_sampling",
+      "description": "Upscaling and frame upconversion DNN for real-time videos.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "simple-icons:pytorch"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      "name": "darknet-traffic-identification",
+      "createdAt": "2023-11-21T16:26:54Z",
+      "url": "https://github.com/aloshdenny/Darknet-Traffic-Identification",
+      "description": "‘Darknet Traffic Identification’ using bio-inspired Manta Ray Foraging Optimizer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "simple-icons:pytorch"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOG0_8uQ",
+      "name": "ddos-attack-prediction",
+      "createdAt": "2023-12-17T14:50:20Z",
+      "url": "https://github.com/aloshdenny/Attack-Detection",
+      "description": "Regularized Hybrid Deep Learning for DDoS Attack Prediction in IoT Networks.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "simple-icons:pytorch"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGcPKSQ",
+      "name": "another-earth",
+      "createdAt": "2023-06-13T17:56:07Z",
+      "url": "https://a-o-x-o.itch.io/another-earth",
+      "description": "A 2D sci-fi fun game developed in Unity.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "C#",
+          "iconifyClass": "logos-c"
+        },
+        {
+          "name": "Unity",
+          "iconifyClass": "logos-unity"
+        },
+        {
+          "name": "Blender",
+          "iconifyClass": "logos-blender"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMjU5NDM1MTE=",
+      "name": "scratch-gpt",
+      "createdAt": "2023-09-08T08:31:51Z",
+      "url": "https://github.com/aloshdenny/ScratchGPT",
+      "description": "Bigram transformer model from scratch (Shakespearean corpus).",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "Python",
+          "iconifyClass": "logos-python"
+        },
+        {
+          "name": "PyTorch",
+          "iconifyClass": "simple-icons:pytorch"
+        },
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    }
+  ]
+}
