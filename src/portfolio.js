@@ -8,8 +8,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Alosh's Portfolio",
-  description:
-    "Iccus Battahnus",
+  description: "Iccus Battahnus",
   og: {
     title: "Alosh Denny Portfolio",
     type: "website",
@@ -22,8 +21,7 @@ const greeting = {
   title: "Alosh Denny",
   logo_name: "AloshDenny",
   nickname: "a_o_x_o",
-  subTitle:
-    "AI hobbyist and multi-domain researcher",
+  subTitle: "AI hobbyist and multi-domain researcher",
   resumeLink:
     "https://drive.google.com/file/d/1xu8X3tC3fzpq4Y4sU6wCwyE2PuOEmD8A/view?usp=sharing",
   portfolio_repository: "https://github.com/aloshdenny/aoxo",
@@ -31,7 +29,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-
   {
     name: "Github",
     link: "https://github.com/aloshdenny",
@@ -127,14 +124,14 @@ const skills = {
           fontAwesomeClassname: "logos-pandas",
           style: {
             backgroundColor: "transparent",
-          }
+          },
         },
         {
           skillName: "CUDA",
           fontAwesomeClassname: "logos-nvidia",
           style: {
             backgroundColor: "transparent",
-          }
+          },
         },
       ],
     },
@@ -282,7 +279,8 @@ const competitiveSites = {
       style: {
         color: "#1F8ACB",
       },
-      profileLink: "https://www.coursera.org/user/866feb8c1ddf17feda45bf0dc1beadee",
+      profileLink:
+        "https://www.coursera.org/user/866feb8c1ddf17feda45bf0dc1beadee",
     },
     {
       siteName: "HuggingFace",
@@ -350,14 +348,16 @@ const experience = {
         {
           title: "e-Healthcare Data Management Using Machine Learning and IoT",
           company: "Springer",
-          company_url: "",
+          company_url:
+            "https://link.springer.com/chapter/10.1007/978-981-97-5624-7_5",
           logo_path: "springer.png",
           description:
             "Chapter 5 of the Springer Book Series: IoT and ML for Information Management A Smart Healthcare Perspective",
           color: "#000000",
         },
         {
-          title: "Singularity - A Fast Reconstructive Super Resolution Framework",
+          title:
+            "Singularity - A Fast Reconstructive Super Resolution Framework",
           company: "IEEE Xplore",
           company_url: "",
           logo_path: "IEEE-1.png",
@@ -366,16 +366,19 @@ const experience = {
           color: "#0879bf",
         },
         {
-          title: "T2A: A Novel Text2ASMR Framework for Generating Autonomous Sensory Meridian Response Audio",
+          title:
+            "T2A: A Novel Text2ASMR Framework for Generating Autonomous Sensory Meridian Response Audio",
           company: "ISBN",
-          company_url: "",
+          company_url:
+            "https://scmsgroup.org/sstm/images/NSCTC%202024%20Conference%20Proceedings.pdf",
           logo_path: "isbn.png",
           description:
             "This work proposes an efficient Diffusion-based UNet neural network framework, namely T2A, for the generation of Text-2-Autonomous Sensory Meridian Response audio. T2A takes plain text as input and is capable of generating speech and non-speech ASMR elements.",
           color: "#9b1578",
         },
         {
-          title: "Regularized Hybrid Deep Learning for DDoS Attack Prediction in Software-Defined IoT Networks",
+          title:
+            "Regularized Hybrid Deep Learning for DDoS Attack Prediction in Software-Defined IoT Networks",
           company: "IEEE Xplore",
           company_url: "https://ieeexplore.ieee.org/document/10474620",
           logo_path: "IEEE-1.png",
@@ -472,7 +475,8 @@ const publications = {
   data: [
     {
       id: "ddos-attach-prediction",
-      name: "Regularized Hybrid Deep Learning for DDoS Attack Prediction in Software-Defined IoT Networks",
+      name:
+        "Regularized Hybrid Deep Learning for DDoS Attack Prediction in Software-Defined IoT Networks",
       createdAt: "2024-03-25T00:00:00Z",
       description: "Paper published in IEEE Xplore",
       url: "https://ieeexplore.ieee.org/document/10474620",
